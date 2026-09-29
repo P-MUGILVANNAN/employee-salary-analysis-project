@@ -1,0 +1,9 @@
+employee_id,name,department,age,experience,salary,city,joining_date,bonus,annual_salary,annual_bonus,annual_compensation,experience_level,salary_level,joining_year,joining_month,service_days,service_years,salary_rank
+101,Rahul,IT,24,2,45000,Chennai,2023-01-15,4500.0,540000,54000.0,594000.0,Junior,Low,2023,January,1353,3.7,8
+102,Priya,HR,28,5,60000,Bangalore,2021-08-10,6000.0,720000,72000.0,792000.0,Mid-Level,Medium,2021,August,1876,5.1,4
+103,Arun,Sales,30,7,70000,Chennai,2019-06-20,7000.0,840000,84000.0,924000.0,Mid-Level,High,2019,June,2658,7.3,2
+104,Kiran,IT,26,3,52000,Hyderabad,2022-03-12,5200.0,624000,62400.0,686400.0,Junior,Medium,2022,March,1662,4.6,6
+105,Ramesh,HR,32,8,75000,Bangalore,2018-11-25,7500.0,900000,90000.0,990000.0,Senior,High,2018,November,2865,7.8,1
+106,Divya,Finance,25,2,48000,Chennai,2023-07-01,4800.0,576000,57600.0,633600.0,Junior,Low,2023,July,1186,3.2,7
+107,Suresh,Sales,29,6,65000,Hyderabad,2020-09-18,6500.0,780000,78000.0,858000.0,Mid-Level,Medium,2020,September,2202,6.0,3
+108,Meena,IT,27,4,58000,Chennai,2021-12-05,5800.0,696000,69600.0,765600.0,Junior,Medium,2021,December,1759,4.8,5
